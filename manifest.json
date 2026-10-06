@@ -1,7 +1,7 @@
 {
   "version": "V21",
   "fileName": "LBGpro-V21.zip",
-  "packageUrl": "https://SEU-DOMINIO/release/LBGpro-V21.zip",
-  "sha256": "COLE_AQUI_O_SHA256_DO_ZIP",
-  "notes": "Descrição da atualização"
+  "packageUrl": "https://raw.githubusercontent.com/brunohrc2026-gif/lbgpro-updates/main/releases/LBGpro-V21.zip",
+  "sha256": "9e13ae68c569efd5c28d2e977a63e669bc07fb029b14f45eb03d7dcfd425a535",
+  "notes": "Primeira atualização oficial distribuída pelo servidor de atualizações LBGpro."
 }
